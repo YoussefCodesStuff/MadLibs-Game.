@@ -21,3 +21,5 @@ print()
 print(f"Thank you for playing, {name}!")
 
 # I'm currently following a guide and these projects just motivate me to continue learning.
+
+input("Press Enter to exit...")
